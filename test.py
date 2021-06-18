@@ -1,9 +1,9 @@
 print("Hello world from dev")
 
-def hello()
+def hello():
 	hello = "Hello world from dev"
 	print(hello)
 	return hello
 
-def hello_check()
+def hello_check():
 	assert hello() == "Hello world from dev"
