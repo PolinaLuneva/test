@@ -1,7 +1,3 @@
 language: python
 script:
-<<<<<<< Updated upstream
   - pytest
-=======
-  - pytest
->>>>>>> Stashed changes
