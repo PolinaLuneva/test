@@ -1,5 +1,3 @@
-print("Hello world from dev")
-
 def inc(x):
     return x + 1
 
